@@ -7,3 +7,6 @@ A -> added
 Left hand side green M -> file modified in staging area
 ?? -> untracked 
 
+hello 
+
+
